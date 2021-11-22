@@ -8,3 +8,4 @@ TODO:
 3. Token authentication
 4. Documentation generation
 5. Automated testing
+6. Dockerize
